@@ -30,5 +30,5 @@ function findTotal(index){
 
   return total;
 }
-console.log(ansArr);
+console.log(Math.max(...ansArr));
 
